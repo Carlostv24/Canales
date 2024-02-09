@@ -1,0 +1,133 @@
+﻿#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="Costa RICA TV24" pltv-description="Reproductor Simple IPTV - PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Reproductor Simple IPTV" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="Costa RICA TV24", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica: Pura Vida⭐️", CRI: TELETICA 7 ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125905
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="Costa Rica: Pura Vida⭐️", CRI: REPRETEL 11 ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125906
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL 6 REPRETEL ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125907
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png" group-title="Costa Rica: Pura Vida⭐️", CRI: REPRETEL 4 ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125908
+
+#EXTINF:-1 tvg-logo="https://ipiauonline.com.br/wp-content/uploads/2017/11/tv-santa-cruz-rede-bahia.png" group-title="Costa Rica: Pura Vida⭐️", CRI: Santa Cruz Tv ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125909
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/1280px-STV_logo_2014.png" group-title="Costa Rica: Pura Vida⭐️", CRI: STV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125910
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TeleUno_1997.png" group-title="Costa Rica: Pura Vida⭐️", CRI: Teleuno ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125913
+
+#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/621/946/sticker-png-stadtwerke-muhlacker-gmbh-forum-netztechnik-netzbetrieb-natural-gas-drinking-water-organization-aeronaves-tsm-official-website-blue-text-trademark-logo-industry-thumbnail.png" group-title="Costa Rica: Pura Vida⭐️", CRI: TD+ 2 ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125914
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Costa Rica: Pura Vida⭐️", CRI: ETVCR ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125915
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica: Pura Vida⭐️", CRI: Teletica 7 ˢᵒʸ ᵀⁱᶜᵒ Fᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125916
+
+#EXTINF:-1 tvg-logo="https://revistasumma.com/wp-content/uploads/2019/12/68fff78c3cb93ba949ccc7f4a095614a-1080x675.png" group-title="Costa Rica: Pura Vida⭐️", CRI: Telered ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125917
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/484339936644964352/LjGD2YP9.png" group-title="Costa Rica: Pura Vida⭐️", CRI: Màstv ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125918
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Costa Rica: Pura Vida⭐️", CRI: Multimedios Canal 6 ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125919
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Costa Rica: Pura Vida⭐️", CRI: Canal Radio Elite ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125920
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/487649843184017408/R16BXdFJ_200x200.jpeg" group-title="Costa Rica: Pura Vida⭐️", CRI: Canal de la Música ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125922
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png" group-title="Costa Rica: Pura Vida⭐️", CRI: LA MEGA TVR ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125923
+
+#EXTINF:-1 tvg-logo="https://humor24-7.com/wp-content/uploads/2020/12/LOGO-150.png" group-title="Costa Rica: Pura Vida⭐️", CRI: TV Curré ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/125924
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180618/gja/kisspng-costa-rica-extra-tv-42-television-channel-streamin-5b27f4ae7ff047.233950511529345198524.jpg" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL EXTRA CR ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/130053
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/150-1508834_logo-con-sombra-logo-de-canal-ucr.png" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL 15 UCR ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/135044
+
+#EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL EXTREMA TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/135045
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Multimedios_Canal_Ocho_Logo.svg.png" group-title="Costa Rica: Pura Vida⭐️", CRI: Multimedios Canal 8 ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/135046
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="Costa Rica: Pura Vida⭐️", CRI: TELESUR CR ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/135047
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_11/large.logo_ticavision.png.9acd16e9068c43e42fafe94726d01da4.png" group-title="Costa Rica: Pura Vida⭐️", CRI: Ticavision Canal 52 ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/137079
+
+#EXTINF:-1 tvg-logo="http://www.antenaseis.com/wp-content/uploads/2018/06/cropped-logo-antena-seis.png" group-title="Costa Rica: Pura Vida⭐️", CRI: Antena 6 ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/137918
+
+#EXTINF:-1 tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/Logo-Nuevo-400.jpg" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL 38 MUSIC TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/140820
+
+#EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2020/12/tvn_14.png" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL 14 TVN ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/150683
+
+#EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2020/12/tvn_14.png" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL 14 TV NORTE HD
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/150684
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fuiNMHxxBa8/Xj9K4sAvkaI/AAAAAAAANKs/JK__aGQCmXoUM-NLaoTKQoi9rl95olQCwCLcBGAsYHQ/s640/futv.png" group-title="Costa Rica: Pura Vida⭐️", CRI: FUTV GRITALO ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/152800
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png" group-title="Costa Rica: Pura Vida⭐️", CRI: ENLACE TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/153424
+
+#EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2020-07/colosal-tv-costa-rica.png" group-title="Costa Rica: Pura Vida⭐️", CRI: COLOSAL TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/153423
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_hv_tv.png" group-title="Costa Rica: Pura Vida⭐️", CRI: HBTV Ticavisión ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/153422
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cr-canal-vm-latino-5393.jpg" group-title="Costa Rica: Pura Vida⭐️", CRI: VM LATINO TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/153425
+
+#EXTINF:-1 tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL 38 TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/153426
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL SAN JOSÉ ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/159972
+
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/88Stereo-Costa-Rica.png" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL 88STEREO ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/159973
+
+#EXTINF:-1 tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL RADIO TELETICA ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/159975
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Costa Rica: Pura Vida⭐️", CRI: AGROTENDENCIA ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/160402
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="Costa Rica: Pura Vida⭐️", CRI: Canal 2 CDR ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/160480
+
+#EXTINF:-1 tvg-logo="https://soyplancha.tv/wp-content/uploads/2023/03/cropped-SOY-PLANCHA-LOGO-TV-2019.png" group-title="Costa Rica: Pura Vida⭐️", CRI: SOY Plancha TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/166762
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tv.png" group-title="Costa Rica: Pura Vida⭐️", CRI: TV+ CANAL 54 ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/166763
+
+#EXTINF:-1 tvg-logo="https://www.tps-cr.com/wp-content/uploads/2021/03/Zurqui%CC%81-logo-ORIGINAL-_1080px-2.png" group-title="Costa Rica: Pura Vida⭐️", CRI: Zurqui TV 31.4 ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/197097
+
+#EXTINF:-1 tvg-logo="https://www.lateja.cr/resizer/R5oXGXColCgMS8H0fQFWC9Rt0d8=/300x0/arc-anglerfish-arc2-prod-gruponacion/public/A5QSG7J2ERAN7DYBXWEGY73H2I.png" group-title="Costa Rica: Pura Vida⭐️", CRI: CANAL 1 HD
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/208379
+
