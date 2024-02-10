@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:0,+ Listas en M3U.CL * | CL
+#EXTGRP:unsorted
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
+#EXTINF:0,OpaTV Canal 38 de Costa Rica
+#EXTGRP:unsorted
+https://opa.usastreams.com:3101/live/canalopalive.m3u8
+#EXTINF:0,Canal 1 de Costa Rica
+#EXTGRP:unsorted
+https://video20.klm99.com:3993/live/canal1crlive.m3u8
+#EXTINF:0,Heredíano Toluca
+#EXTGRP:unsorted
+https://acceso.radiosportstv.online:3384/live/canal101crlive.m3u8
+#EXTINF:0,Teletica
+#EXTGRP:unsorted
+https://acceso.radiosportstv.online:3138/live/canal10crlive.m3u8
